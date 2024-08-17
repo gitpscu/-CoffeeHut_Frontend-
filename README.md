@@ -3,4 +3,4 @@
 `product_catalog.md`
 `discount_plans.md`
 `testimonials.md`
-`FeaturedProducts.md`
+`FeaturedProducts.md` 
